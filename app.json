@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "AppApostasXP",
-    "slug": "AppApostasXP",
+    "name": "PersonagensRickandMorty",
+    "slug": "PersonagensRickandMorty",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
